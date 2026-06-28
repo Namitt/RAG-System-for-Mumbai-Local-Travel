@@ -58,10 +58,6 @@ Concrete next steps: swap GPT-2 for an instruction-tuned model (e.g. Flan-T5 or 
  
 ## What this project demonstrates
  
-The full RAG loop assembled from scratch — semantic embedding, vector indexing, nearest-neighbour retrieval, and context-grounded generation — plus an honest read of where a naive generator breaks down and how to fix it.
- 
-
-
-
+The full RAG loop assembled from scratch, semantic embedding, vector indexing, nearest-neighbour retrieval, and context-grounded generation, plus an honest read of where a naive generator breaks down and how to fix it.
 
 
