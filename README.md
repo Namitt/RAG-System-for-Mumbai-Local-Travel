@@ -1,6 +1,3 @@
-
-
-Readme · MD
 # RAG System for Mumbai Local Travel
  
 A Retrieval-Augmented Generation (RAG) pipeline that answers natural-language questions about Mumbai's local railway stations. It retrieves the most relevant station information from a custom dataset using semantic search, then feeds that context to a language model to generate a response.
